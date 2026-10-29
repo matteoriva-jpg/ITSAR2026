@@ -6,7 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Project/Scenes/Arena.unity
+    path: Assets/New Folder with Selection/New Folder with Selection/_Project/Scenes/Arena.unity
     guid: f99dd1f2e1f406d4ebeb53ec63aa5e11
   m_configObjects: {}
-  m_UseUCBPForAssetBundles: 0
